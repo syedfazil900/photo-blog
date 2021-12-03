@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;600;800&display=swap');
+img {
+    width: 30%;
+    margin: 1.666%;
+}
+nav {
+    font-size: 1.5em;
+    text-transform: uppercase;
+    border-bottom: 2px solid #e6e6e6;
+    width: 30%;
+    margin-left: calc(10%/6);
+    padding: 1.2em 0;
+    font-family: Raleway;
+    font-weight: 800;
+}
